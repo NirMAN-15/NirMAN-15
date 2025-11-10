@@ -1,4 +1,4 @@
-# Hi, I'm W. Nirman Achinthama 👋
+# Hi, I'm W. Nirman Achintha 👋
 
 💻 IT Student at ITUM  
 ☁️ Learning Microsoft Azure (AZ-900 in progress)
