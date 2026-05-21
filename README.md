@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**NirMAN-15/NirMAN-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# Nirman Achintha (He/Him)
+# Nirman Achintha (He/Him)
 
 I am an Information Technology undergraduate at the Institute of Technology, University of Moratuwa, Sri Lanka. My ultimate career goal is to work as a DevOps Engineer. I build secure cloud infrastructure, automate deployment pipelines, and optimize systems.
 
@@ -48,7 +37,3 @@ I am an Information Technology undergraduate at the Institute of Technology, Uni
 * **Email:** nirmanachintha1313@gmail.com
 * **LinkedIn:** [linkedin.com/in/w-nirman-achintha](https://www.linkedin.com/in/w-nirman-achintha/)
 * **Facebook:** [facebook.com/nirman.achintha-fb](https://facebook.com/nirman.achintha-fb)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
