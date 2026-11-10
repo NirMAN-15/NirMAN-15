@@ -1,5 +1,7 @@
 # Hi there, I'm Nirman Achintha 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=NirMAN-15&color=0db7ed&style=flat-square&label=PROFILE+VIEWS)
+
 ### Information Technology Undergraduate @ University of Moratuwa | Aspiring DevOps, Cloud, AI & Software Engineering Intern
 
 Performance-driven IT undergraduate with hands-on expertise in automating delivery pipelines, managing Linux servers, and containerizing workloads. As the Founder of **Vibe Solution**, I architect secure cloud infrastructure, deploy microservices, and orchestrate server environments. Passionate about integrating AI models and building highly available full-stack systems.
@@ -101,16 +103,18 @@ Performance-driven IT undergraduate with hands-on expertise in automating delive
 
 <p align="left">
   <a href="https://www.linkedin.com/in/w-nirman-achintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="w-nirman-achintha" height="30" width="40" /></a>
+  <a href="mailto:nirmanachintha1313@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="email" height="30" width="40" /></a>
   <a href="https://vibesolution.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="vibesolution.tech" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirMAN-15&show_icons=true&theme=dark" alt="NirMAN-15's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirMAN-15&theme=tokyonight&hide_border=true" alt="NirMAN-15's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirMAN-15&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NirMAN-15&show_icons=true&theme=tokyonight&hide_border=true" alt="NirMAN-15's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirMAN-15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
